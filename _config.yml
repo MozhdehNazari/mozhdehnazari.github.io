@@ -1,5 +1,5 @@
 # Site settings
-title: "Mozhdeh Nazari S"
+title: "Mozhdeh Nazari"
 description: "Ph.D of Computer"
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Mozhdeh Nazari Solimandarabi"
+resume_name:                    "Mozhdeh Nazari"
 resume_title:                   "About Me"
 
 # used for the contact button in _layouts/resume.html
